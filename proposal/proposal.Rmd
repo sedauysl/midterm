@@ -1,5 +1,5 @@
 ---
-title: "Title"
+title: "Midterm"
 author: 
   - Last Name, First Name[^1]
 bibliography: ../bibliography/biblio.bib
