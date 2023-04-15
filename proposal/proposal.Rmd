@@ -1,7 +1,7 @@
 ---
 title: "Midterm"
 author: 
-  - Last Name, First Name[^1]
+  - Uysal, Seda[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,36 +32,23 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+[^1]: Student ID:20080404, [Github Repo](https://github.com/sedauysl/midterm.git)
 
-# Important Information About Midterm
-
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
-
-**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
-
-**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
-
-\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+   Whether or not women have equal rights in the workforce has been a matter of debate since the past. Even if they have equal skills, women's working at lower wages than men is one of the biggest socio-economic problems of countries. Unequal policies of countries or sectors negatively affect women's labor supply, female unemployment rates and women's economic power. At this point, unequal opportunities break the trust and desire of women employees and drop them from the workforce. These unequal labor policies and the unfair behavior of the sectors in almost every country in the world affect productivity regardless of whether they are female-dominated or male-dominated sectors. In this study, it will be determined whether an egalitarian path is followed by looking at workers' wages according to gender and occupations and unemployment rates according to gender,ages in countries with different socioeconomic and sociocultural characteristics. In this study, hourly wages according to gender and different occupations and unemployment rates according to gender and ages in different countries in different years were used from the International Labor Organization resource and supported the data with literature review. "Women earn less than men in all occupations." In this study, which is based on the question, the data were analyzed with T-test and Chi-Square. According to the analysis, the wages and employment status of individuals with ages in different countries and different genders and in different occupations were examined according to the results obtained.
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+   Why women achieve less wages compared to men of similar qualifications raises questions in the minds of economists for a period and has been studied from a variety of perspectives.It is a well-studied touches to revise the issues from the perspective of occupations and especially the effect of occupational discrimination according to gender. Although unknowns maintain about how discrimination affects women's wages with this question:"Were women's occupations really less capable than men's, or was the pay completely schismatic?", for a long period, occupational segregation was seen as major factor of low women's payments.[@bizopoulou2016task],this shows that the fact that male and female workers receive different pay  is an nearly global property of the work force market,without having to look at where female workers work. It has been determined that occupations dominated by women pay less than occupations dominated by men, despite having the same cability grade.[@hegewisch2010separate] Women's median earnings are less compared to men's in almost all occupations, regardless of whether they work in occupations mainly dominated by women or men, or both.[@hegewisch2021cinsiyet] Considering the being of gender pay and differences related with occupation,there is a natural tendency to assume that there is a connection between these two data sets. Essentially, the oldest theories of gender differences assumed such a connection among earnings and professional structure. The depth of the theory that came to be known as the occupational distinction hypothesis goes back at least to Edgeworth (1922) and Rathbone (1917). The argument applied to gender differences is that definite occupations are mainly reserved for women, however men are independent in the occupation of their selection. In conclusion,as women were forced into simple occupations,the increase in the supply of female workers in women's jobs and decrease female workers' wages. Wage increases occurred as the supply of male occupations decreased.[@polachek1987mesleki] Obvious gender biases persist through a wide range of industries and occupations, which are more evident at the sub-industry level. Females, who have a particularly great part in the health, welfare, education, training and retail workforce, on the contrary, have a very weak part in mining, electricity, gas, water and construction.
+Moreover,females compose to the wide majority of clerical, administrative, community and personal service as employees. The care sector and social services, particularly childcare and aged care, are extremely feminized sectors and professions. As well as women earn a lower hourly wage than men in most occupations, the differences are nearly as large in feminized profession such as community and personal service employees and as in male controlled professions, such as technicians and trade employees. Likewise, the wages in health care and social assistance, a feminized sector, have slightly greater difference wage than in mining and construction, which are male-dominated sectors. Also, leastways at a large standard,there is no robust design of expressively poorer wages for full-time employees in feminized professions and industries. United with proof that the gender pay gap can be widely expressed by individual features at lower pay levels, it shows that females have great probability than males to be classified under the occupational hierarchy, without taking care of ability.[@broderick2012politikası]
 
-
-
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
-
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
+   It is important to explain why women are relegated to a lower economic position. When these patterns arise from unequal opportunities, due to unjust hiring exercises, it means that the economy is failing to fully and appropriately  employ highly productive workers. Conversely, if  unfair economic outcomes result from varying individual choices despite fair opportunities,followed by government intervention can cause a damaged allotment of resources and unproductivies in the economy. If productive efficiency is hindered instead of helping disadvantaged groups, then in the long run everyone suffers.[@polachek1987mesleki]
 
 \newpage
 # References {#references}
 <div id="refs"></div>
+
 
